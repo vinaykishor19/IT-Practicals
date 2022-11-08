@@ -1,0 +1,44 @@
+[
+	{
+		"name":"Buzo",
+		"age":3,
+		"weight":12,
+		"type":"Dog",
+		"likes":"eating, playing with ball"
+	},
+	{
+		"name":"Shera",
+		"age":4,
+		"weight":22,
+		"type":"German Sefford",
+		"likes":"Biting, eating flesh"
+	},
+	{
+		"name":"Tom",
+		"age":2.5,
+		"weight":8,
+		"type":"cat",
+		"likes":"sleeping, chazing Jerry"
+	},
+	{
+		"name":"Jerry",
+		"age":0.5,
+		"weight":0.7,
+		"type":"Mouse",
+		"likes":"running, eating cheese, Irritating Tom"
+	},
+	{
+		"name":"Mickey",
+		"age":1,
+		"weight":1.2,
+		"type":"Mouse",
+		"likes":"running, Flirting With Minnie"
+	},
+    {
+		"name":"jeffy",
+		"age":1,
+		"weight":1.2,
+		"type":"Rabbit",
+		"likes":"running, eating carrot"
+	}
+]

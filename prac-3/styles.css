@@ -1,0 +1,147 @@
+
+body {
+    color: #222222;
+    font-size: 1em;
+    margin: 0;
+    padding: 0 ;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    /* position: absolute; */
+    background-color: #CFFF8D;
+  }
+  
+  .content-footer,
+  .tophead-heading,
+  .tophead-intro {
+    text-align: center;
+  }
+
+  .tophead-intro {
+    margin-bottom: 0.1em;
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 2em;
+  }
+  
+  .tophead-heading {
+    color: #A8E890;
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+  }
+  
+  .about-section,
+  .hobbies-section,
+  .course-section,
+  .plan-section {
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+  }
+  
+  .about-section > p,
+  .hobbies-section > p,
+  .course-section,
+  .plan-section > p,
+  .content-footer > p {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+  }
+  
+  section > h1 {
+    margin-top: 1em;
+    text-align: center;
+    font-size: 35px;
+  }
+  
+  .content-footer,
+  .tophead-heading,
+  .tophead-intro {
+    text-align: center;
+  }
+  
+  .tophead {
+    padding: 1em 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .tophead-intro {
+    margin-bottom: 0.1em;
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 2em;
+  }
+  
+  .tophead-heading {
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+  }
+  .about-section > p,
+  .hobbies > p,
+  .content-footer > p {
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+  }
+  .plan-section{
+    font-size: 20px;
+  }
+
+  li{
+    font-size: 20px;
+  }
+  
+  h2 {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .about-section,
+  .hobbies-section,
+  .course-section,
+  .plan-section {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+  }
+  .content-footer {
+    margin: 50px 0;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #425F57;
+    text-decoration: none;
+    margin-bottom: 0;
+  }
+  .social > li {
+    margin: 10px 0px;
+    text-decoration: none;
+    list-style: none;
+  }
+  .content-footer > p {
+    color: #e6f8ff;
+    font-size: 35px;
+    font-weight: bold;
+  }
+  a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #CFFF8D;
+  }
+  .social{
+    color: #e6f8ff;
+  }
+  .tophead{
+    margin-bottom: 0;
+    padding-bottom: 0px;
+    background-color: #749F82;
+  }
+
+  
